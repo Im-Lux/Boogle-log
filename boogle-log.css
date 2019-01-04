@@ -1,0 +1,117 @@
+* {
+    box-sizing: content-box;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.main {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main1 {
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.main2 {
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.p1 {
+    display: block;
+    font-weight: 300;
+    font-size: 37px;
+    color: #555;
+}
+
+.main3 {
+    display: block;
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pod-main1 {
+    display: block;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 15px;
+    font-weight: 100;
+    color: #555;
+}
+
+.pod-main2 {
+    margin-top: 40px;
+    background-color: #f7f7f7;
+    padding: 50px 8px 40px 8px;
+    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.profile-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.e-p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.email {
+    display: block;
+    width: 200px;
+    height: 25px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.password {
+    display: block;
+    width: 200px;
+    height: 25px;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+
+.sign-in {
+    display: block;
+    width: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightblue;
+    border-radius: 10px;
+    margin-top: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 3px solid transparent;
+    line-height: 1.3333333;
+}
+
+.create {
+    display: block;
+    padding-top: 10px;
+    width: 150px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
